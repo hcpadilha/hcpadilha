@@ -13,13 +13,7 @@
  </p>
 
 </p>
-
-  ## Others:
-
-
-![](https://github.com/hcpadilha/hcpadilhaa/blob/output/github-contribution-grid-snake.svg)
-
-![](https://komarev.com/ghpvc/?username=hcpadilha)
+# cobrinha.yml
 
 #  
 <!--  
