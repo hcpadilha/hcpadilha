@@ -18,7 +18,7 @@
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Navelogic/count.svg" /> <!-- https://github.com/teteusAraujo -->
+   <img alingn="center" src="https://profile-counter.glitch.me/hcpadilha/count.svg" /> <!-- https://github.com/teteusAraujo -->
  </p>
 
 </p>
