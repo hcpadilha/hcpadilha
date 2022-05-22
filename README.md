@@ -14,7 +14,13 @@
 
 </p>
 
-  
+  ## Others:
+
+
+![](https://github.com/GabrielMendesdc/GabrielMendesdc/blob/output/github-contribution-grid-snake.svg)
+
+![](https://komarev.com/ghpvc/?username=GabrielMendesdc)
+
 #  
 <!--  
 <div>
