@@ -1,10 +1,6 @@
 ### Hi! I'm Henrique Padilha, welcome to my profile!
 
-<div align="center">
-  <a href="https://github.com/hcpadilha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hcpadilha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcpadilha&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   <p align="center"> 
     <div style="display: inline_block"><br>
   <img align="center" alt="hcpadilha-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
