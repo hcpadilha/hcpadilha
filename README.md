@@ -38,7 +38,7 @@
 -->
   
 
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning JAVA 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
